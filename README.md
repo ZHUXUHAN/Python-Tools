@@ -13,3 +13,6 @@
  
   coco_categories 
  该脚本用来读coco数据集的类别列表。
+ 
+  vocwriter
+ 该脚本用来将检测框和类别等信息保存成voc的xml格式。
