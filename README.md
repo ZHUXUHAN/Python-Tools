@@ -10,5 +10,6 @@
  
   coco_rect_vis
  该脚本用来读coco格式json文件，并按id读取某张图片的标注，并可视化保存图片。
+ 
   coco_categories 
  该脚本用来读coco数据集的类别列表。
