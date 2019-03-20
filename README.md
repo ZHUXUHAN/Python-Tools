@@ -16,3 +16,6 @@
  
   vocwriter
  该脚本用来将检测框和类别等信息保存成voc的xml格式。
+ 
+  count
+ 该脚本用来记录属于同一类别的object的数量。
