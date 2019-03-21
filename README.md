@@ -19,3 +19,6 @@
  
   count
  该脚本用来记录属于同一类别的object的数量。
+ 
+  csv_to_coco
+ 该脚本用来将csv类型的检测标注表示为coco类型的json文件。
