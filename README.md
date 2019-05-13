@@ -28,3 +28,6 @@
  
  **match_img**
  用来在一张大图中来匹配另一张小图的位置
+ 
+ **torch_cpu_or_gpu.py**
+ 用来判断某个变量是在gpu还是cpu上
