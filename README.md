@@ -29,8 +29,8 @@
  **match_img**
  用来在一张大图中来匹配另一张小图的位置
  
- **torch_cpu_or_gpu.py**
+ **torch_cpu_or_gpu**
  用来判断某个变量是在gpu还是cpu上
  
- **customized_parameters_pytorch.py**
+ **customized_parameters_pytorch**
  用户自定义的可学习的参数
