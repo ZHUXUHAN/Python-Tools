@@ -32,5 +32,5 @@
  **torch_cpu_or_gpu.py**
  用来判断某个变量是在gpu还是cpu上
  
- **customized_parameters_pytorch.py
+ **customized_parameters_pytorch.py**
  用户自定义的可学习的参数
