@@ -37,3 +37,6 @@
 
  **shutil_tool.py**
  shutil库的使用，可实现文件/文件夹的复制、移动、删除等操作
+ 
+ **merge_txt_file.py**
+ 用来合并两个txt文本的内容。
