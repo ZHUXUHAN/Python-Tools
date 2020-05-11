@@ -40,3 +40,7 @@
  
  **merge_txt_file.py**
  用来合并两个txt文本的内容。
+ 
+  **merge_img.py**
+ 用来合并多个img到一个图上。
+ 
