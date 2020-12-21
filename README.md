@@ -14,6 +14,9 @@
   **coco_categories**
  该脚本用来读coco数据集的类别列表。
  
+  **coco_img_copy
+ 该脚本用来将某个coco类别的图片复制到某个文件夹中
+ 
   **vocwriter**
  该脚本用来将检测框和类别等信息保存成voc的xml格式。
  
